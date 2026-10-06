@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+streamlit
+openai
+faiss-cpu
+opencv-python-headless
+pillow
+numpy
+openai-whisper
+python-multipart
+python-dotenv
+requests

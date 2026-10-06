@@ -1,0 +1,9 @@
+# ignore local environments and large folders
+venv/
+.env
+__pycache__/
+*.pyc
+node_modules/
+requirements-dev.txt
+README.md
+tests/
